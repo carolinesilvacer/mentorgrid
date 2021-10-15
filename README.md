@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./mobile1.jpg)
-![](./desktop2.jpg)
+![Mobile](images/mobile1.png)
+![Desktop](images/desktop2.png)
 
 
 ### Links
@@ -55,8 +55,6 @@ Here are some of the code I used (CSS):
 
 ```css
 
------- media rule and grid columns ------
-
 @media only screen and (min-width: 700px) {
     .container {
         grid-template-columns: 50% 50%;
@@ -73,6 +71,7 @@ Here are some of the code I used (CSS):
     .......
     }
 
+```
 
 ### Continued development
 
