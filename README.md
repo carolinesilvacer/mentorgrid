@@ -1,4 +1,4 @@
-# Frontend Mentor - Single price grid component solution
+# Frontend Mentor - Single price grid component solution 💻
 
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -96,5 +96,5 @@ Padding and margin are areas which I have to focus the most, sometimes I get stu
 
 ## Acknowledgments
 
-Someone who I have to thank is my mentor, friend and inspiration Giovana Assis, she is the person who introduced me to this challenge. I will never be capable of thanking her enough for helping me to develop my skills. 
+Someone who I have to thank is my mentor, friend and inspiration Giovana Assis, she is the person who introduced me to this challenge. I will never be capable of thanking her enough for helping me to develop my skills. 💗
 
