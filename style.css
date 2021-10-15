@@ -16,7 +16,6 @@ background-color: red;}
 .container {
     background-color: white;
     display: grid;
-    overflow: hidden;
     grid-template-columns: 100%;
     max-width: 700px;
     box-shadow: #CDC9C9 0 0 1em;
