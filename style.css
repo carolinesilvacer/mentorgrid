@@ -10,9 +10,6 @@ body {
     box-sizing: border-box;
 }
 
-header {
-background-color: red;}
-
 .container {
     background-color: white;
     display: grid;
@@ -78,7 +75,6 @@ span {
     padding: 30px;
     color: hsl(204, 43%, 93%);
     background-color:hsl(179, 52%, 54%);
-
 }
 
 h1 {
@@ -109,4 +105,13 @@ h3 {
     margin: auto;
     box-shadow: #7e7c7c 0 0 1em;
     border-radius: 5px;
+}
+
+@media only screen and (min-width: 700px) {
+    .container {
+        grid-template-columns: 50% 50%;
+    }
+    .texto1 {
+        grid-area: 1/ 1/ 2/ 3;
+    }
 }
