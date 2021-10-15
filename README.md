@@ -79,8 +79,12 @@ Padding and margin are areas which I have to focus the most, sometimes I get stu
 
 ### Useful resources
 
-- [media rule](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp), (https://www.youtube.com/watch?v=2KL-z9A56SQ) - These links helped me to understand where I had to use the media rule, the video was a real quick learn.
-- [grid columns]https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template), (https://www.youtube.com/watch?v=HN1UjzRSdBk) - This video got my attention for the way the teacher explained easily the concepts, I'd recommend it to anyone that wants to learn this concept. (It's in Brazilian Portuguese).
+- [w3schools](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
+- [media rule video](https://www.youtube.com/watch?v=2KL-z9A56SQ) 
+- These links helped me to understand where I had to use the media rule, the video was a real quick learn.
+- [developer mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template)
+- [grid column video](https://www.youtube.com/watch?v=HN1UjzRSdBk) 
+- This video got my attention for the way the teacher explained easily the concepts, I'd recommend it to anyone that wants to learn this concept. (It's in Brazilian Portuguese).
 
 
 ## Author
